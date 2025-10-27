@@ -1,0 +1,20 @@
+#app {
+  max-width: 500px;
+  margin: auto;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 5px;
+  padding: 8px;
+}
+
+.done {
+  text-decoration: line-through;
+}
